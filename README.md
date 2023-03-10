@@ -1,4 +1,4 @@
-![Portfolio rebalancer](https://github.com/prtk418/portfolio-reba;ancer-ui/blob/main/public/portfolio-rebalancer-ui.png?raw=true)
+![Portfolio rebalancer](https://github.com/prtk418/portfolio-rebalancer-ui/blob/main/public/portfolio-rebalancer-ui.png)
 
 # Getting Started with Create React App
 
